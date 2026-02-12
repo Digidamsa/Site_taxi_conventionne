@@ -100,7 +100,7 @@ const HomePage = () => {
                     animate={{ opacity: 1, scale: 1 }}
                     transition={{ duration: 0.8, delay: 0.4 }}
                 >
-                    <img class="w-full h-auto rounded-lg shadow-2xl" alt="Formulaire de prescription médicale de transport" src="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/prescription.jpg?token=GHSAT0AAAAAADVLV2565IRD5HZOHBXMYS7Q2MNSFPA" />
+                    <img class="w-full h-auto rounded-lg shadow-2xl" alt="Formulaire de prescription médicale de transport" src="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/prescription.jpg" />
                 </motion.div>
             </div>
           </div>
@@ -115,7 +115,7 @@ const HomePage = () => {
                     viewport={{ once: true }}
                     transition={{ duration: 0.8, delay: 0.2 }}
                 >
-                    <img class="w-full h-auto rounded-lg shadow-2xl" alt="Bannière Taxi Conventionné CPAM, VSL, Ambulance" src="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/Photo%20accueil.jpeg?token=GHSAT0AAAAAADVLV256QTB533YGLEBBSXES2MNSGOA" />
+                    <img class="w-full h-auto rounded-lg shadow-2xl" alt="Bannière Taxi Conventionné CPAM, VSL, Ambulance" src="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/Photo%20accueil.jpeg" />
                 </motion.div>
                 <motion.div
                     initial={{ opacity: 0, x: 50 }}
