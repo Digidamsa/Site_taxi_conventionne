@@ -19,7 +19,7 @@ const BoulognePage = () => {
     <PageLayout
       title="Taxi Conventionné CPAM, VSL, Ambulance Boulogne-sur-Mer"
       description="Transport médical (Taxi, VSL, Ambulance) conventionné à Boulogne-sur-Mer. Déplacements vers le Centre Hospitalier, Côte d'Opale et autres centres."
-      imageSrc="https://horizons-cdn.hostinger.com/803a1e4b-f6f6-4bd4-a77d-5ce8956c29e1/14b3bd191caafd02ddf9010f2cba4fd6.jpg"
+      imageSrc="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/Boulogne.jpg"
       imageAlt="Vue aérienne du Centre Hospitalier de Boulogne-sur-Mer"
       city="Boulogne-sur-Mer"
     >
