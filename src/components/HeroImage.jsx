@@ -4,8 +4,8 @@ const HeroImage = () => {
   return (
     <div className='flex justify-center items-center'>
       <img 
-        src='https://imagedelivery.net/LqiWLm-3MGbYHtFuUbcBtA/119580eb-abd9-4191-b93a-f01938786700/public' 
-        alt='Hostinger Horizons' 
+        src='https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/Photo%20accueil.jpeg' 
+        alt='Taxi conventionné nord VSL' 
       />
     </div>
   );
