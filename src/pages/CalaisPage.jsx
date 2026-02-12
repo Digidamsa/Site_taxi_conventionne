@@ -19,7 +19,7 @@ const CalaisPage = () => {
     <PageLayout
       title="Taxi Conventionné CPAM, VSL, Ambulance Calais"
       description="Votre taxi, VSL ou ambulance conventionné à Calais pour vos transports médicaux vers le Centre Hospitalier, cliniques et spécialistes. Contact 7j/7 24h/24."
-      imageSrc="https://horizons-cdn.hostinger.com/803a1e4b-f6f6-4bd4-a77d-5ce8956c29e1/8c8c791160f6043117028287bee473f1.jpg"
+      imageSrc="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/Calais.jpg"
       imageAlt="Centre Hospitalier de Calais vu de l'extérieur"
       city="Calais"
     >
