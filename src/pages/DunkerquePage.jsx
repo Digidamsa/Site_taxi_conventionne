@@ -19,7 +19,7 @@ const DunkerquePage = () => {
     <PageLayout
       title="Taxi Conventionné CPAM, VSL, Ambulance Dunkerque"
       description="Service de taxi, VSL, ambulance conventionné CPAM à Dunkerque (DK). Centre Hospitalier, Polyclinique de Grande-Synthe. Disponible 24/7."
-      imageSrc="https://horizons-cdn.hostinger.com/803a1e4b-f6f6-4bd4-a77d-5ce8956c29e1/2afa14862d4fa92f1fdff4a5cf9430e8.jpg"
+      imageSrc="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/Dunkerque.jpg"
       imageAlt="Façade du Centre Hospitalier de Dunkerque"
       city="Dunkerque"
     >
