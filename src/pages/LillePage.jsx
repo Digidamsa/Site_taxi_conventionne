@@ -19,7 +19,7 @@ const LillePage = () => {
     <PageLayout
       title="Taxi Conventionné CPAM, VSL, Ambulance Lille"
       description="Service de taxi, VSL et ambulance conventionné à Lille pour transport médical. CHRU, Hôpital Claude Huriez, centres de soin. Réservez 7j/7 24h/24."
-      imageSrc="https://horizons-cdn.hostinger.com/803a1e4b-f6f6-4bd4-a77d-5ce8956c29e1/d9f008387e503e1ae35326bc062090c9.jpg"
+      imageSrc="https://raw.githubusercontent.com/Digidamsa/Site_taxi_conventionne/refs/heads/main/images/image%20site3.jpg"
       imageAlt="Entrée de l'Hôpital Claude Huriez et Faculté de Médecine de Lille"
       city="Lille"
     >
